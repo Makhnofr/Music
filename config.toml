@@ -1,4 +1,4 @@
-baseURL = 'http://example.org/'
+baseURL = 'http://Music_Makhno.org/'
 languageCode = 'en-us'
-title = 'My New Hugo Site'
-theme = 'ananke'
+title = 'Makhnovchina Music'
+theme = ["github.com/theNewDynamic/gohugo-theme-ananke"]
