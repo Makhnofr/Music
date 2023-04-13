@@ -1,6 +1,7 @@
 title = "Makhnovchina Music website"
 baseURL = "https://gohugo-theme-ananke.pages.dev"
 languageCode = "en-us"
+theme = "../themes/ananke"
 resourceDir = "../resources"
 
 DefaultContentLanguage = "en"
