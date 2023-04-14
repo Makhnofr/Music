@@ -3,9 +3,8 @@ baseURL = "https://gohugo-theme-ananke.pages.dev"
 languageCode = "en-us"
 theme = "../themes/ananke"
 resourceDir = "../resources"
-contentDir = "../content"
 
-DefaultContentLanguage = "en"
+DefaultContentLanguage = "fr"
 SectionPagesMenu = "main"
 Paginate = 3 # this is set low for demonstrating with dummy content. Set to a higher number
 googleAnalytics = ""
@@ -16,12 +15,12 @@ enableRobotsTXT = true
   [languages.en]
     title = "Makhnovchina Music website"
     weight = 1
-    contentDir = "../content/en"
+    contentDir = "exampleSite/content/en"
     # languageDirection = 'rtl' for Right-To-Left languages
   [languages.fr]
     title = "Makhnovchina Music website"
     weight = 2
-    contentDir = "../content/fr"
+    contentDir = "exampleSite/content/fr"
 
 [sitemap]
   changefreq = "monthly"
@@ -35,7 +34,7 @@ enableRobotsTXT = true
   site_logo = ""
   description = "The last theme you'll ever need. Maybe."
   # choose a background color from any on this page: https://tachyons.io/docs/themes/skins/ and preface it with "bg-"
-  background_color_class = "bg-black"
+  background_color_class = "bg-pink"
   recent_posts_number = 3
   commentoEnable = true
 
