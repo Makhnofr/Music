@@ -2,7 +2,7 @@
 date: 2029-04-09T10:58:08-04:00
 description: "Militantisme artistique"
 featured_image: "/images/Phenix_photo_Ver1_final.png"
-tags: ["vente"]
+tags: []
 title: "Milit'Art"
 ---
 
