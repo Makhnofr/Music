@@ -1,7 +1,7 @@
 ---
-title: "Makhnovtchina Music Content main"
+title: "Makhnovtchina Music"
 
-description: "Music for people"
+description: "People music"
 cascade:
   featured_image: '/images/external-content.duckduckgo.com.jpg'
 ---
