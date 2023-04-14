@@ -3,6 +3,7 @@ baseURL = "https://gohugo-theme-ananke.pages.dev"
 languageCode = "en-us"
 theme = "../themes/ananke"
 resourceDir = "../resources"
+contentDir = "../content"
 
 DefaultContentLanguage = "en"
 SectionPagesMenu = "main"
